@@ -1,8 +1,15 @@
-Supervisor: Mr. Tummala Vinay Goud 
+Supervisor: Mr. Tummala Vinay Goud
+
 Email: vinay1804@vardhaman.org 
-Contact: 9666431903 
+
+Contact: 9666431903
+
 Project Type: Mini Project / EPBL Internship 
+
 Domain: Artificial Intelligence, Generative AI & Web Development
+
+
+
 
 #  YouTube Transcript Summarizer and Keyword Extractor
 
