@@ -1,6 +1,12 @@
-# 🎙️ YouTube Transcript Summarizer and Keyword Extractor
+Supervisor: Mr. Tummala Vinay Goud 
+Email: vinay1804@vardhaman.org 
+Contact: 9666431903 
+Project Type: Mini Project / EPBL Internship 
+Domain: Artificial Intelligence, Generative AI & Web Development
 
-## 📌 Project Overview
+#  YouTube Transcript Summarizer and Keyword Extractor
+
+##  Project Overview
 
 YouTube contains a huge amount of educational, technical, informational, and tutorial-based content. However, watching lengthy videos completely to identify important information can be time-consuming.
 
@@ -12,7 +18,7 @@ The application provides multiple analysis modes so that users can choose the ty
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The main objectives of this project are:
 
@@ -32,9 +38,9 @@ The main objectives of this project are:
 
 ---
 
-## ✨ Features
+## Features
 
-### 📄 1. General Summary
+### 1. General Summary
 
 Generates a detailed summary of the complete video content.
 
@@ -48,7 +54,7 @@ The generated summary focuses on:
 
 ---
 
-### 📝 2. Bullet Summary
+### 2. Bullet Summary
 
 Converts the video content into concise bullet points.
 
@@ -61,7 +67,7 @@ This mode is useful for:
 
 ---
 
-### 🎬 3. Timestamp Summary
+### 3. Timestamp Summary
 
 Generates a summary containing timestamps related to important sections of the video.
 
@@ -69,7 +75,7 @@ The application converts timestamps into clickable YouTube links so users can na
 
 ---
 
-### 🎯 4. Key Insights
+### 4. Key Insights
 
 Extracts the most valuable ideas from the video.
 
@@ -77,7 +83,7 @@ The system generates approximately 5–10 important insights depending on the co
 
 ---
 
-### 🎓 5. Study Mode
+### 5. Study Mode
 
 Study Mode converts video content into learning material.
 
@@ -92,7 +98,7 @@ Users can specify the number of quiz questions.
 
 ---
 
-### 🕵️ 6. Fact Check
+### 6. Fact Check
 
 The Fact Check mode extracts objective claims from the video and evaluates them using AI.
 
@@ -108,7 +114,7 @@ The system also provides an explanation for each evaluated claim.
 
 ---
 
-### 🔑 7. Keyword Extraction
+### 7. Keyword Extraction
 
 The application extracts frequently occurring meaningful words from the transcript.
 
@@ -116,7 +122,7 @@ Short words are filtered out and the most frequent words are returned as keyword
 
 ---
 
-### 📊 8. Video Analytics
+### 8. Video Analytics
 
 For videos where a transcript is successfully retrieved, the application provides:
 
@@ -126,7 +132,7 @@ For videos where a transcript is successfully retrieved, the application provide
 
 ---
 
-### 🌐 9. Multilingual Output
+### 9. Multilingual Output
 
 The application supports generating results in multiple languages.
 
